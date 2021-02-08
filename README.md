@@ -11,7 +11,7 @@ x1,A,B,C
 x2,Y,N
 x3,K,R,S
 ```
-### Examples
+### Examples:
 The following examples:</br>
 ![alt text](figures/examples.png "Examples")</br>
 are represented as the following csv file:</br>
@@ -32,7 +32,7 @@ B,N,K,+
 B,N,K,+
 C,N,K,+
 ```
-### Output
+### Output:
 The program generates the following Decision Tree:</br>
 ![alt text](figures/output.png "Output")</br>
 
